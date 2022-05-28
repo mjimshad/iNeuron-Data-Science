@@ -1,0 +1,696 @@
+2022-05-28 20:36:37 DEBUG diff parser start
+2022-05-28 20:36:37 DEBUG line_lengths old: 10; new: 5
+2022-05-28 20:36:37 DEBUG -> code[replace] old[1:6] new[1:1]
+2022-05-28 20:36:37 DEBUG parse_part from 1 to 5 (to 4 in part parser)
+2022-05-28 20:36:37 DEBUG -> code[equal] old[7:7] new[2:2]
+2022-05-28 20:36:37 DEBUG -> code[replace] old[8:10] new[3:5]
+2022-05-28 20:36:37 DEBUG diff parser end
+2022-05-28 20:36:37 DEBUG pickle loaded: C:\Users\jimsh\anaconda3\lib\types.py
+2022-05-28 20:36:37 DEBUG pickle loaded: C:\Users\jimsh\anaconda3\lib\site-packages\jedi\third_party\typeshed\stdlib\3\types.pyi
+2022-05-28 20:36:38 DEBUG diff parser start
+2022-05-28 20:36:38 DEBUG line_lengths old: 5; new: 5
+2022-05-28 20:36:38 DEBUG -> code[equal] old[1:4] new[1:4]
+2022-05-28 20:36:38 DEBUG parse_part from 1 to 5 (to 4 in part parser)
+2022-05-28 20:36:38 DEBUG -> code[replace] old[5:5] new[5:5]
+2022-05-28 20:36:38 DEBUG diff parser end
+2022-05-28 20:36:39 DEBUG diff parser start
+2022-05-28 20:36:39 DEBUG line_lengths old: 5; new: 5
+2022-05-28 20:36:39 DEBUG -> code[equal] old[1:4] new[1:4]
+2022-05-28 20:36:39 DEBUG parse_part from 1 to 5 (to 4 in part parser)
+2022-05-28 20:36:39 DEBUG -> code[replace] old[5:5] new[5:5]
+2022-05-28 20:36:39 DEBUG diff parser end
+2022-05-28 20:36:39 DEBUG diff parser start
+2022-05-28 20:36:39 DEBUG line_lengths old: 5; new: 5
+2022-05-28 20:36:39 DEBUG -> code[equal] old[1:4] new[1:4]
+2022-05-28 20:36:39 DEBUG parse_part from 1 to 5 (to 4 in part parser)
+2022-05-28 20:36:39 DEBUG -> code[replace] old[5:5] new[5:5]
+2022-05-28 20:36:39 DEBUG diff parser end
+2022-05-28 20:37:03 DEBUG diff parser start
+2022-05-28 20:37:03 DEBUG line_lengths old: 5; new: 7
+2022-05-28 20:37:03 DEBUG -> code[equal] old[1:4] new[1:4]
+2022-05-28 20:37:03 DEBUG parse_part from 1 to 7 (to 6 in part parser)
+2022-05-28 20:37:03 DEBUG -> code[replace] old[5:5] new[5:7]
+2022-05-28 20:37:03 DEBUG diff parser end
+2022-05-28 20:37:07 DEBUG diff parser start
+2022-05-28 20:37:07 DEBUG line_lengths old: 7; new: 7
+2022-05-28 20:37:07 DEBUG -> code[equal] old[1:6] new[1:6]
+2022-05-28 20:37:07 DEBUG parse_part from 1 to 7 (to 6 in part parser)
+2022-05-28 20:37:07 DEBUG -> code[replace] old[7:7] new[7:7]
+2022-05-28 20:37:07 DEBUG diff parser end
+2022-05-28 20:37:12 DEBUG diff parser start
+2022-05-28 20:37:12 DEBUG line_lengths old: 7; new: 8
+2022-05-28 20:37:12 DEBUG -> code[equal] old[1:6] new[1:6]
+2022-05-28 20:37:12 DEBUG parse_part from 1 to 8 (to 7 in part parser)
+2022-05-28 20:37:12 DEBUG -> code[replace] old[7:7] new[7:8]
+2022-05-28 20:37:12 DEBUG diff parser end
+2022-05-28 20:37:15 DEBUG diff parser start
+2022-05-28 20:37:15 DEBUG line_lengths old: 8; new: 8
+2022-05-28 20:37:15 DEBUG -> code[equal] old[1:7] new[1:7]
+2022-05-28 20:37:15 DEBUG parse_part from 1 to 8 (to 7 in part parser)
+2022-05-28 20:37:15 DEBUG -> code[replace] old[8:8] new[8:8]
+2022-05-28 20:37:15 DEBUG diff parser end
+2022-05-28 20:38:08 DEBUG diff parser start
+2022-05-28 20:38:08 DEBUG line_lengths old: 8; new: 6
+2022-05-28 20:38:08 DEBUG -> code[equal] old[1:5] new[1:5]
+2022-05-28 20:38:08 DEBUG parse_part from 1 to 6 (to 5 in part parser)
+2022-05-28 20:38:08 DEBUG -> code[replace] old[6:8] new[6:6]
+2022-05-28 20:38:08 DEBUG diff parser end
+2022-05-28 20:38:11 DEBUG diff parser start
+2022-05-28 20:38:11 DEBUG line_lengths old: 6; new: 6
+2022-05-28 20:38:11 DEBUG -> code[equal] old[1:5] new[1:5]
+2022-05-28 20:38:11 DEBUG parse_part from 1 to 6 (to 5 in part parser)
+2022-05-28 20:38:11 DEBUG -> code[replace] old[6:6] new[6:6]
+2022-05-28 20:38:11 DEBUG diff parser end
+2022-05-28 20:38:22 DEBUG diff parser start
+2022-05-28 20:38:22 DEBUG line_lengths old: 6; new: 9
+2022-05-28 20:38:22 DEBUG -> code[equal] old[1:5] new[1:5]
+2022-05-28 20:38:22 DEBUG parse_part from 1 to 9 (to 8 in part parser)
+2022-05-28 20:38:22 DEBUG -> code[replace] old[6:6] new[6:9]
+2022-05-28 20:38:22 DEBUG diff parser end
+2022-05-28 20:38:31 DEBUG diff parser start
+2022-05-28 20:38:31 DEBUG line_lengths old: 9; new: 9
+2022-05-28 20:38:31 DEBUG -> code[equal] old[1:8] new[1:8]
+2022-05-28 20:38:31 DEBUG copy old[3:8] new[1:6]
+2022-05-28 20:38:31 DEBUG parse_part from 7 to 9 (to 8 in part parser)
+2022-05-28 20:38:31 DEBUG -> code[replace] old[9:9] new[9:9]
+2022-05-28 20:38:31 DEBUG diff parser end
+2022-05-28 20:38:38 DEBUG diff parser start
+2022-05-28 20:38:38 DEBUG line_lengths old: 9; new: 9
+2022-05-28 20:38:38 DEBUG -> code[equal] old[1:8] new[1:8]
+2022-05-28 20:38:38 DEBUG copy old[3:8] new[1:6]
+2022-05-28 20:38:38 DEBUG parse_part from 7 to 9 (to 8 in part parser)
+2022-05-28 20:38:38 DEBUG -> code[replace] old[9:9] new[9:9]
+2022-05-28 20:38:38 DEBUG diff parser end
+2022-05-28 20:38:38 DEBUG pickle loaded: C:\Users\jimsh\anaconda3\lib\site-packages\pymongo\__init__.py
+2022-05-28 20:38:39 DEBUG diff parser start
+2022-05-28 20:38:39 DEBUG line_lengths old: 9; new: 9
+2022-05-28 20:38:39 DEBUG -> code[equal] old[1:8] new[1:8]
+2022-05-28 20:38:39 DEBUG copy old[3:8] new[1:6]
+2022-05-28 20:38:39 DEBUG parse_part from 7 to 9 (to 8 in part parser)
+2022-05-28 20:38:39 DEBUG -> code[replace] old[9:9] new[9:9]
+2022-05-28 20:38:39 DEBUG diff parser end
+2022-05-28 20:38:39 DEBUG diff parser start
+2022-05-28 20:38:39 DEBUG line_lengths old: 9; new: 9
+2022-05-28 20:38:39 DEBUG -> code[equal] old[1:8] new[1:8]
+2022-05-28 20:38:39 DEBUG copy old[3:8] new[1:6]
+2022-05-28 20:38:39 DEBUG parse_part from 7 to 9 (to 8 in part parser)
+2022-05-28 20:38:39 DEBUG -> code[replace] old[9:9] new[9:9]
+2022-05-28 20:38:39 DEBUG diff parser end
+2022-05-28 20:39:58 DEBUG diff parser start
+2022-05-28 20:39:58 DEBUG line_lengths old: 9; new: 9
+2022-05-28 20:39:58 DEBUG -> code[equal] old[1:8] new[1:8]
+2022-05-28 20:39:58 DEBUG copy old[3:8] new[1:6]
+2022-05-28 20:39:58 DEBUG parse_part from 7 to 9 (to 8 in part parser)
+2022-05-28 20:39:58 DEBUG -> code[replace] old[9:9] new[9:9]
+2022-05-28 20:39:58 DEBUG diff parser end
+2022-05-28 20:40:06 DEBUG diff parser start
+2022-05-28 20:40:06 DEBUG line_lengths old: 9; new: 10
+2022-05-28 20:40:06 DEBUG -> code[equal] old[1:8] new[1:8]
+2022-05-28 20:40:06 DEBUG copy old[3:8] new[1:6]
+2022-05-28 20:40:06 DEBUG parse_part from 7 to 10 (to 9 in part parser)
+2022-05-28 20:40:06 DEBUG -> code[replace] old[9:9] new[9:10]
+2022-05-28 20:40:06 DEBUG diff parser end
+2022-05-28 20:40:09 DEBUG diff parser start
+2022-05-28 20:40:09 DEBUG line_lengths old: 10; new: 10
+2022-05-28 20:40:09 DEBUG -> code[equal] old[1:9] new[1:9]
+2022-05-28 20:40:09 DEBUG copy old[3:9] new[1:6]
+2022-05-28 20:40:09 DEBUG parse_part from 7 to 10 (to 9 in part parser)
+2022-05-28 20:40:09 DEBUG -> code[replace] old[10:10] new[10:10]
+2022-05-28 20:40:09 DEBUG diff parser end
+2022-05-28 20:40:42 DEBUG diff parser start
+2022-05-28 20:40:42 DEBUG line_lengths old: 10; new: 12
+2022-05-28 20:40:42 DEBUG -> code[equal] old[1:9] new[1:9]
+2022-05-28 20:40:42 DEBUG copy old[3:9] new[1:6]
+2022-05-28 20:40:42 DEBUG parse_part from 7 to 12 (to 11 in part parser)
+2022-05-28 20:40:42 DEBUG -> code[replace] old[10:10] new[10:12]
+2022-05-28 20:40:42 DEBUG diff parser end
+2022-05-28 20:41:48 DEBUG diff parser start
+2022-05-28 20:41:48 DEBUG line_lengths old: 12; new: 15
+2022-05-28 20:41:48 DEBUG -> code[equal] old[1:11] new[1:11]
+2022-05-28 20:41:48 DEBUG copy old[3:11] new[1:6]
+2022-05-28 20:41:48 DEBUG parse_part from 7 to 15 (to 14 in part parser)
+2022-05-28 20:41:48 DEBUG -> code[replace] old[12:12] new[12:15]
+2022-05-28 20:41:48 DEBUG diff parser end
+2022-05-28 20:42:07 DEBUG diff parser start
+2022-05-28 20:42:07 DEBUG line_lengths old: 15; new: 15
+2022-05-28 20:42:07 DEBUG -> code[equal] old[1:14] new[1:14]
+2022-05-28 20:42:07 DEBUG copy old[3:14] new[1:6]
+2022-05-28 20:42:07 DEBUG parse_part from 7 to 15 (to 14 in part parser)
+2022-05-28 20:42:07 DEBUG -> code[replace] old[15:15] new[15:15]
+2022-05-28 20:42:07 DEBUG diff parser end
+2022-05-28 20:44:25 DEBUG diff parser start
+2022-05-28 20:44:25 DEBUG line_lengths old: 15; new: 1
+2022-05-28 20:44:25 DEBUG -> code[replace] old[1:15] new[1:1]
+2022-05-28 20:44:25 DEBUG parse_part from 1 to 1 (to 0 in part parser)
+2022-05-28 20:44:25 DEBUG diff parser end
+2022-05-28 20:44:31 DEBUG diff parser start
+2022-05-28 20:44:31 DEBUG line_lengths old: 1; new: 1
+2022-05-28 20:44:31 DEBUG -> code[replace] old[1:1] new[1:1]
+2022-05-28 20:44:31 DEBUG parse_part from 1 to 1 (to 0 in part parser)
+2022-05-28 20:44:31 DEBUG diff parser end
+2022-05-28 20:47:13 DEBUG diff parser start
+2022-05-28 20:47:13 DEBUG line_lengths old: 1; new: 2
+2022-05-28 20:47:13 DEBUG -> code[replace] old[1:1] new[1:2]
+2022-05-28 20:47:13 DEBUG parse_part from 1 to 2 (to 1 in part parser)
+2022-05-28 20:47:13 DEBUG diff parser end
+2022-05-28 20:47:16 DEBUG diff parser start
+2022-05-28 20:47:16 DEBUG line_lengths old: 2; new: 2
+2022-05-28 20:47:16 DEBUG -> code[equal] old[1:1] new[1:1]
+2022-05-28 20:47:16 DEBUG copy old[1:1] new[1:1]
+2022-05-28 20:47:16 DEBUG -> code[replace] old[2:2] new[2:2]
+2022-05-28 20:47:16 DEBUG parse_part from 2 to 2 (to 1 in part parser)
+2022-05-28 20:47:16 DEBUG diff parser end
+2022-05-28 20:47:18 DEBUG diff parser start
+2022-05-28 20:47:18 DEBUG line_lengths old: 2; new: 2
+2022-05-28 20:47:18 DEBUG -> code[equal] old[1:1] new[1:1]
+2022-05-28 20:47:18 DEBUG copy old[1:1] new[1:1]
+2022-05-28 20:47:18 DEBUG -> code[replace] old[2:2] new[2:2]
+2022-05-28 20:47:18 DEBUG parse_part from 2 to 2 (to 1 in part parser)
+2022-05-28 20:47:18 DEBUG diff parser end
+2022-05-28 20:47:20 INFO Connection SuccessfullMongoClient(host=['ac-n2scpbo-shard-00-00.o6lncva.mongodb.net:27017', 'ac-n2scpbo-shard-00-02.o6lncva.mongodb.net:27017', 'ac-n2scpbo-shard-00-01.o6lncva.mongodb.net:27017'], document_class=dict, tz_aware=False, connect=True, retrywrites=True, w='majority', authsource='admin', replicaset='atlas-ru0jnl-shard-0', tls=True)
+2022-05-28 20:52:54 DEBUG diff parser start
+2022-05-28 20:52:54 DEBUG line_lengths old: 2; new: 22
+2022-05-28 20:52:54 DEBUG -> code[replace] old[1:2] new[1:22]
+2022-05-28 20:52:54 DEBUG parse_part from 1 to 22 (to 21 in part parser)
+2022-05-28 20:52:54 DEBUG diff parser end
+2022-05-28 20:53:01 DEBUG diff parser start
+2022-05-28 20:53:01 DEBUG line_lengths old: 22; new: 23
+2022-05-28 20:53:01 DEBUG -> code[equal] old[1:21] new[1:21]
+2022-05-28 20:53:01 DEBUG copy old[3:21] new[1:15]
+2022-05-28 20:53:01 DEBUG parse_part from 16 to 18 (to 18 in part parser)
+2022-05-28 20:53:01 DEBUG parse_part from 19 to 23 (to 22 in part parser)
+2022-05-28 20:53:01 DEBUG -> code[replace] old[22:22] new[22:23]
+2022-05-28 20:53:01 DEBUG diff parser end
+2022-05-28 20:53:04 DEBUG diff parser start
+2022-05-28 20:53:04 DEBUG line_lengths old: 23; new: 23
+2022-05-28 20:53:04 DEBUG -> code[equal] old[1:22] new[1:22]
+2022-05-28 20:53:04 DEBUG copy old[3:22] new[1:15]
+2022-05-28 20:53:04 DEBUG parse_part from 16 to 18 (to 18 in part parser)
+2022-05-28 20:53:04 DEBUG parse_part from 19 to 23 (to 22 in part parser)
+2022-05-28 20:53:04 DEBUG -> code[replace] old[23:23] new[23:23]
+2022-05-28 20:53:04 DEBUG diff parser end
+2022-05-28 20:53:29 DEBUG diff parser start
+2022-05-28 20:53:29 DEBUG line_lengths old: 23; new: 25
+2022-05-28 20:53:29 DEBUG -> code[equal] old[1:22] new[1:22]
+2022-05-28 20:53:29 DEBUG copy old[3:22] new[1:15]
+2022-05-28 20:53:29 DEBUG parse_part from 16 to 18 (to 18 in part parser)
+2022-05-28 20:53:29 DEBUG parse_part from 19 to 25 (to 24 in part parser)
+2022-05-28 20:53:29 DEBUG -> code[replace] old[23:23] new[23:25]
+2022-05-28 20:53:29 DEBUG diff parser end
+2022-05-28 20:59:15 DEBUG diff parser start
+2022-05-28 20:59:15 DEBUG line_lengths old: 25; new: 27
+2022-05-28 20:59:15 DEBUG -> code[equal] old[1:24] new[1:24]
+2022-05-28 20:59:15 DEBUG copy old[3:24] new[1:15]
+2022-05-28 20:59:15 DEBUG parse_part from 16 to 18 (to 18 in part parser)
+2022-05-28 20:59:15 DEBUG parse_part from 19 to 27 (to 26 in part parser)
+2022-05-28 20:59:15 DEBUG -> code[replace] old[25:25] new[25:27]
+2022-05-28 20:59:15 DEBUG diff parser end
+2022-05-28 20:59:21 DEBUG diff parser start
+2022-05-28 20:59:21 DEBUG line_lengths old: 27; new: 27
+2022-05-28 20:59:21 DEBUG -> code[equal] old[1:26] new[1:26]
+2022-05-28 20:59:21 DEBUG copy old[3:26] new[1:15]
+2022-05-28 20:59:21 DEBUG parse_part from 16 to 18 (to 18 in part parser)
+2022-05-28 20:59:21 DEBUG parse_part from 19 to 27 (to 26 in part parser)
+2022-05-28 20:59:21 DEBUG -> code[replace] old[27:27] new[27:27]
+2022-05-28 20:59:21 DEBUG diff parser end
+2022-05-28 20:59:31 DEBUG diff parser start
+2022-05-28 20:59:31 DEBUG line_lengths old: 27; new: 27
+2022-05-28 20:59:31 DEBUG -> code[equal] old[1:26] new[1:26]
+2022-05-28 20:59:31 DEBUG copy old[3:26] new[1:15]
+2022-05-28 20:59:31 DEBUG parse_part from 16 to 18 (to 18 in part parser)
+2022-05-28 20:59:31 DEBUG parse_part from 19 to 27 (to 26 in part parser)
+2022-05-28 20:59:31 DEBUG -> code[replace] old[27:27] new[27:27]
+2022-05-28 20:59:31 DEBUG diff parser end
+2022-05-28 21:01:24 DEBUG diff parser start
+2022-05-28 21:01:24 DEBUG line_lengths old: 27; new: 35
+2022-05-28 21:01:24 DEBUG -> code[equal] old[1:17] new[1:17]
+2022-05-28 21:01:24 DEBUG copy old[3:26] new[1:6]
+2022-05-28 21:01:24 DEBUG parse_part from 7 to 18 (to 18 in part parser)
+2022-05-28 21:01:24 DEBUG -> code[replace] old[18:18] new[18:18]
+2022-05-28 21:01:24 DEBUG -> code[equal] old[19:26] new[19:26]
+2022-05-28 21:01:24 DEBUG parse_part from 19 to 28 (to 31 in part parser)
+2022-05-28 21:01:24 DEBUG -> code[replace] old[27:27] new[27:35]
+2022-05-28 21:01:24 DEBUG parse_part from 29 to 35 (to 34 in part parser)
+2022-05-28 21:01:24 DEBUG diff parser end
+2022-05-28 21:02:30 DEBUG diff parser start
+2022-05-28 21:02:30 DEBUG line_lengths old: 35; new: 36
+2022-05-28 21:02:30 DEBUG -> code[equal] old[1:34] new[1:34]
+2022-05-28 21:02:30 DEBUG copy old[3:34] new[1:28]
+2022-05-28 21:02:30 DEBUG parse_part from 29 to 31 (to 31 in part parser)
+2022-05-28 21:02:30 DEBUG parse_part from 32 to 36 (to 35 in part parser)
+2022-05-28 21:02:30 DEBUG -> code[replace] old[35:35] new[35:36]
+2022-05-28 21:02:30 DEBUG diff parser end
+2022-05-28 21:02:32 DEBUG diff parser start
+2022-05-28 21:02:32 DEBUG line_lengths old: 36; new: 36
+2022-05-28 21:02:32 DEBUG -> code[equal] old[1:35] new[1:35]
+2022-05-28 21:02:32 DEBUG copy old[3:35] new[1:28]
+2022-05-28 21:02:32 DEBUG parse_part from 29 to 31 (to 31 in part parser)
+2022-05-28 21:02:32 DEBUG parse_part from 32 to 36 (to 35 in part parser)
+2022-05-28 21:02:32 DEBUG -> code[replace] old[36:36] new[36:36]
+2022-05-28 21:02:32 DEBUG diff parser end
+2022-05-28 21:04:12 DEBUG diff parser start
+2022-05-28 21:04:12 DEBUG line_lengths old: 36; new: 41
+2022-05-28 21:04:12 DEBUG -> code[equal] old[1:35] new[1:35]
+2022-05-28 21:04:12 DEBUG copy old[3:35] new[1:28]
+2022-05-28 21:04:12 DEBUG parse_part from 29 to 31 (to 31 in part parser)
+2022-05-28 21:04:12 DEBUG parse_part from 32 to 41 (to 40 in part parser)
+2022-05-28 21:04:12 DEBUG -> code[replace] old[36:36] new[36:41]
+2022-05-28 21:04:12 DEBUG diff parser end
+2022-05-28 21:05:00 DEBUG diff parser start
+2022-05-28 21:05:00 DEBUG line_lengths old: 41; new: 41
+2022-05-28 21:05:00 DEBUG -> code[equal] old[1:14] new[1:14]
+2022-05-28 21:05:00 DEBUG copy old[3:40] new[1:6]
+2022-05-28 21:05:00 DEBUG parse_part from 7 to 18 (to 18 in part parser)
+2022-05-28 21:05:00 DEBUG -> code[replace] old[15:15] new[15:15]
+2022-05-28 21:05:00 DEBUG -> code[equal] old[16:27] new[16:27]
+2022-05-28 21:05:00 DEBUG parse_part from 19 to 28 (to 31 in part parser)
+2022-05-28 21:05:00 DEBUG -> code[replace] old[28:28] new[28:28]
+2022-05-28 21:05:00 DEBUG -> code[equal] old[29:40] new[29:40]
+2022-05-28 21:05:00 DEBUG parse_part from 29 to 41 (to 40 in part parser)
+2022-05-28 21:05:00 DEBUG -> code[replace] old[41:41] new[41:41]
+2022-05-28 21:05:00 DEBUG diff parser end
+2022-05-28 21:05:06 DEBUG diff parser start
+2022-05-28 21:05:06 DEBUG line_lengths old: 41; new: 41
+2022-05-28 21:05:06 DEBUG -> code[equal] old[1:40] new[1:40]
+2022-05-28 21:05:06 DEBUG copy old[3:40] new[1:28]
+2022-05-28 21:05:06 DEBUG parse_part from 29 to 31 (to 31 in part parser)
+2022-05-28 21:05:06 DEBUG parse_part from 32 to 41 (to 40 in part parser)
+2022-05-28 21:05:06 DEBUG -> code[replace] old[41:41] new[41:41]
+2022-05-28 21:05:06 DEBUG diff parser end
+2022-05-28 21:05:07 DEBUG diff parser start
+2022-05-28 21:05:07 DEBUG line_lengths old: 41; new: 41
+2022-05-28 21:05:07 DEBUG -> code[equal] old[1:40] new[1:40]
+2022-05-28 21:05:07 DEBUG copy old[3:40] new[1:28]
+2022-05-28 21:05:07 DEBUG parse_part from 29 to 31 (to 31 in part parser)
+2022-05-28 21:05:07 DEBUG parse_part from 32 to 41 (to 40 in part parser)
+2022-05-28 21:05:07 DEBUG -> code[replace] old[41:41] new[41:41]
+2022-05-28 21:05:07 DEBUG diff parser end
+2022-05-28 21:05:07 DEBUG diff parser start
+2022-05-28 21:05:07 DEBUG line_lengths old: 41; new: 41
+2022-05-28 21:05:07 DEBUG -> code[equal] old[1:40] new[1:40]
+2022-05-28 21:05:07 DEBUG copy old[3:40] new[1:28]
+2022-05-28 21:05:07 DEBUG parse_part from 29 to 31 (to 31 in part parser)
+2022-05-28 21:05:07 DEBUG parse_part from 32 to 41 (to 40 in part parser)
+2022-05-28 21:05:07 DEBUG -> code[replace] old[41:41] new[41:41]
+2022-05-28 21:05:07 DEBUG diff parser end
+2022-05-28 21:05:07 DEBUG diff parser start
+2022-05-28 21:05:07 DEBUG line_lengths old: 41; new: 41
+2022-05-28 21:05:07 DEBUG -> code[equal] old[1:40] new[1:40]
+2022-05-28 21:05:07 DEBUG copy old[3:40] new[1:28]
+2022-05-28 21:05:07 DEBUG parse_part from 29 to 31 (to 31 in part parser)
+2022-05-28 21:05:07 DEBUG parse_part from 32 to 41 (to 40 in part parser)
+2022-05-28 21:05:07 DEBUG -> code[replace] old[41:41] new[41:41]
+2022-05-28 21:05:07 DEBUG diff parser end
+2022-05-28 21:07:25 DEBUG diff parser start
+2022-05-28 21:07:25 DEBUG line_lengths old: 41; new: 48
+2022-05-28 21:07:25 DEBUG -> code[equal] old[1:40] new[1:40]
+2022-05-28 21:07:25 DEBUG copy old[3:40] new[1:28]
+2022-05-28 21:07:25 DEBUG parse_part from 29 to 31 (to 31 in part parser)
+2022-05-28 21:07:25 DEBUG parse_part from 32 to 41 (to 43 in part parser)
+2022-05-28 21:07:25 DEBUG -> code[replace] old[41:41] new[41:48]
+2022-05-28 21:07:25 DEBUG parse_part from 42 to 48 (to 47 in part parser)
+2022-05-28 21:07:25 DEBUG diff parser end
+2022-05-28 21:07:37 DEBUG diff parser start
+2022-05-28 21:07:37 DEBUG line_lengths old: 48; new: 48
+2022-05-28 21:07:37 DEBUG -> code[equal] old[1:47] new[1:47]
+2022-05-28 21:07:37 DEBUG copy old[3:47] new[1:41]
+2022-05-28 21:07:37 DEBUG parse_part from 42 to 43 (to 43 in part parser)
+2022-05-28 21:07:37 DEBUG parse_part from 44 to 48 (to 47 in part parser)
+2022-05-28 21:07:37 DEBUG -> code[replace] old[48:48] new[48:48]
+2022-05-28 21:07:37 DEBUG diff parser end
+2022-05-28 21:07:37 DEBUG pickle loaded: C:\Users\jimsh\anaconda3\lib\site-packages\pymongo\mongo_client.py
+2022-05-28 21:07:37 DEBUG pickle loaded: C:\Users\jimsh\anaconda3\lib\site-packages\pymongo\common.py
+2022-05-28 21:07:37 DEBUG pickle loaded: C:\Users\jimsh\anaconda3\lib\site-packages\pymongo\typings.py
+2022-05-28 21:07:39 DEBUG diff parser start
+2022-05-28 21:07:39 DEBUG line_lengths old: 48; new: 48
+2022-05-28 21:07:39 DEBUG -> code[equal] old[1:47] new[1:47]
+2022-05-28 21:07:39 DEBUG copy old[3:47] new[1:41]
+2022-05-28 21:07:39 DEBUG parse_part from 42 to 43 (to 43 in part parser)
+2022-05-28 21:07:39 DEBUG parse_part from 44 to 48 (to 47 in part parser)
+2022-05-28 21:07:39 DEBUG -> code[replace] old[48:48] new[48:48]
+2022-05-28 21:07:39 DEBUG diff parser end
+2022-05-28 21:07:40 DEBUG diff parser start
+2022-05-28 21:07:40 DEBUG line_lengths old: 48; new: 48
+2022-05-28 21:07:40 DEBUG -> code[equal] old[1:47] new[1:47]
+2022-05-28 21:07:40 DEBUG copy old[3:47] new[1:41]
+2022-05-28 21:07:40 DEBUG parse_part from 42 to 43 (to 43 in part parser)
+2022-05-28 21:07:40 DEBUG parse_part from 44 to 48 (to 47 in part parser)
+2022-05-28 21:07:40 DEBUG -> code[replace] old[48:48] new[48:48]
+2022-05-28 21:07:40 DEBUG diff parser end
+2022-05-28 21:07:42 DEBUG diff parser start
+2022-05-28 21:07:42 DEBUG line_lengths old: 48; new: 48
+2022-05-28 21:07:42 DEBUG -> code[equal] old[1:47] new[1:47]
+2022-05-28 21:07:42 DEBUG copy old[3:47] new[1:41]
+2022-05-28 21:07:42 DEBUG parse_part from 42 to 43 (to 43 in part parser)
+2022-05-28 21:07:42 DEBUG parse_part from 44 to 48 (to 47 in part parser)
+2022-05-28 21:07:42 DEBUG -> code[replace] old[48:48] new[48:48]
+2022-05-28 21:07:42 DEBUG diff parser end
+2022-05-28 21:08:12 DEBUG diff parser start
+2022-05-28 21:08:12 DEBUG line_lengths old: 48; new: 49
+2022-05-28 21:08:12 DEBUG -> code[equal] old[1:47] new[1:47]
+2022-05-28 21:08:12 DEBUG copy old[3:47] new[1:41]
+2022-05-28 21:08:12 DEBUG parse_part from 42 to 43 (to 43 in part parser)
+2022-05-28 21:08:12 DEBUG parse_part from 44 to 49 (to 48 in part parser)
+2022-05-28 21:08:12 DEBUG -> code[replace] old[48:48] new[48:49]
+2022-05-28 21:08:12 DEBUG diff parser end
+2022-05-28 21:08:20 DEBUG diff parser start
+2022-05-28 21:08:20 DEBUG line_lengths old: 49; new: 50
+2022-05-28 21:08:20 DEBUG -> code[equal] old[1:48] new[1:48]
+2022-05-28 21:08:20 DEBUG copy old[3:48] new[1:41]
+2022-05-28 21:08:20 DEBUG parse_part from 42 to 43 (to 43 in part parser)
+2022-05-28 21:08:20 DEBUG parse_part from 44 to 50 (to 49 in part parser)
+2022-05-28 21:08:20 DEBUG -> code[replace] old[49:49] new[49:50]
+2022-05-28 21:08:20 DEBUG diff parser end
+2022-05-28 21:08:23 DEBUG diff parser start
+2022-05-28 21:08:23 DEBUG line_lengths old: 50; new: 50
+2022-05-28 21:08:23 DEBUG -> code[equal] old[1:49] new[1:49]
+2022-05-28 21:08:23 DEBUG copy old[3:49] new[1:41]
+2022-05-28 21:08:23 DEBUG parse_part from 42 to 43 (to 43 in part parser)
+2022-05-28 21:08:23 DEBUG parse_part from 44 to 50 (to 49 in part parser)
+2022-05-28 21:08:23 DEBUG -> code[replace] old[50:50] new[50:50]
+2022-05-28 21:08:23 DEBUG diff parser end
+2022-05-28 21:09:21 DEBUG diff parser start
+2022-05-28 21:09:21 DEBUG line_lengths old: 50; new: 53
+2022-05-28 21:09:21 DEBUG -> code[equal] old[1:48] new[1:48]
+2022-05-28 21:09:21 DEBUG copy old[3:49] new[1:41]
+2022-05-28 21:09:21 DEBUG parse_part from 42 to 43 (to 43 in part parser)
+2022-05-28 21:09:21 DEBUG parse_part from 44 to 53 (to 52 in part parser)
+2022-05-28 21:09:21 DEBUG -> code[insert] old[49:48] new[49:49]
+2022-05-28 21:09:21 DEBUG -> code[equal] old[49:49] new[50:50]
+2022-05-28 21:09:21 DEBUG -> code[replace] old[50:50] new[51:53]
+2022-05-28 21:09:21 DEBUG diff parser end
+2022-05-28 21:09:23 DEBUG diff parser start
+2022-05-28 21:09:23 DEBUG line_lengths old: 53; new: 53
+2022-05-28 21:09:23 DEBUG -> code[equal] old[1:52] new[1:52]
+2022-05-28 21:09:23 DEBUG copy old[3:52] new[1:41]
+2022-05-28 21:09:23 DEBUG parse_part from 42 to 43 (to 43 in part parser)
+2022-05-28 21:09:23 DEBUG parse_part from 44 to 53 (to 52 in part parser)
+2022-05-28 21:09:23 DEBUG -> code[replace] old[53:53] new[53:53]
+2022-05-28 21:09:23 DEBUG diff parser end
+2022-05-28 21:09:47 DEBUG diff parser start
+2022-05-28 21:09:47 DEBUG line_lengths old: 53; new: 55
+2022-05-28 21:09:47 DEBUG -> code[equal] old[1:52] new[1:52]
+2022-05-28 21:09:47 DEBUG copy old[3:52] new[1:41]
+2022-05-28 21:09:47 DEBUG parse_part from 42 to 43 (to 43 in part parser)
+2022-05-28 21:09:47 DEBUG parse_part from 44 to 55 (to 54 in part parser)
+2022-05-28 21:09:47 DEBUG -> code[replace] old[53:53] new[53:55]
+2022-05-28 21:09:47 DEBUG diff parser end
+2022-05-28 21:09:48 DEBUG diff parser start
+2022-05-28 21:09:48 DEBUG line_lengths old: 55; new: 55
+2022-05-28 21:09:48 DEBUG -> code[equal] old[1:54] new[1:54]
+2022-05-28 21:09:48 DEBUG copy old[3:54] new[1:41]
+2022-05-28 21:09:48 DEBUG parse_part from 42 to 43 (to 43 in part parser)
+2022-05-28 21:09:48 DEBUG parse_part from 44 to 55 (to 54 in part parser)
+2022-05-28 21:09:48 DEBUG -> code[replace] old[55:55] new[55:55]
+2022-05-28 21:09:48 DEBUG diff parser end
+2022-05-28 21:09:49 DEBUG diff parser start
+2022-05-28 21:09:49 DEBUG line_lengths old: 55; new: 55
+2022-05-28 21:09:49 DEBUG -> code[equal] old[1:54] new[1:54]
+2022-05-28 21:09:49 DEBUG copy old[3:54] new[1:41]
+2022-05-28 21:09:49 DEBUG parse_part from 42 to 43 (to 43 in part parser)
+2022-05-28 21:09:49 DEBUG parse_part from 44 to 55 (to 54 in part parser)
+2022-05-28 21:09:49 DEBUG -> code[replace] old[55:55] new[55:55]
+2022-05-28 21:09:49 DEBUG diff parser end
+2022-05-28 21:09:51 DEBUG diff parser start
+2022-05-28 21:09:51 DEBUG line_lengths old: 55; new: 55
+2022-05-28 21:09:51 DEBUG -> code[equal] old[1:54] new[1:54]
+2022-05-28 21:09:51 DEBUG copy old[3:54] new[1:41]
+2022-05-28 21:09:51 DEBUG parse_part from 42 to 43 (to 43 in part parser)
+2022-05-28 21:09:51 DEBUG parse_part from 44 to 55 (to 54 in part parser)
+2022-05-28 21:09:51 DEBUG -> code[replace] old[55:55] new[55:55]
+2022-05-28 21:09:51 DEBUG diff parser end
+2022-05-28 21:12:17 DEBUG diff parser start
+2022-05-28 21:12:17 DEBUG line_lengths old: 55; new: 57
+2022-05-28 21:12:17 DEBUG -> code[equal] old[1:54] new[1:54]
+2022-05-28 21:12:17 DEBUG copy old[3:54] new[1:41]
+2022-05-28 21:12:17 DEBUG parse_part from 42 to 43 (to 43 in part parser)
+2022-05-28 21:12:17 DEBUG parse_part from 44 to 57 (to 56 in part parser)
+2022-05-28 21:12:17 DEBUG -> code[replace] old[55:55] new[55:57]
+2022-05-28 21:12:17 DEBUG diff parser end
+2022-05-28 21:12:23 DEBUG diff parser start
+2022-05-28 21:12:23 DEBUG line_lengths old: 57; new: 58
+2022-05-28 21:12:23 DEBUG -> code[equal] old[1:56] new[1:56]
+2022-05-28 21:12:23 DEBUG copy old[3:56] new[1:41]
+2022-05-28 21:12:23 DEBUG parse_part from 42 to 43 (to 43 in part parser)
+2022-05-28 21:12:23 DEBUG parse_part from 44 to 58 (to 57 in part parser)
+2022-05-28 21:12:23 DEBUG -> code[replace] old[57:57] new[57:58]
+2022-05-28 21:12:23 DEBUG diff parser end
+2022-05-28 21:12:32 DEBUG diff parser start
+2022-05-28 21:12:32 DEBUG line_lengths old: 58; new: 58
+2022-05-28 21:12:32 DEBUG -> code[equal] old[1:57] new[1:57]
+2022-05-28 21:12:32 DEBUG copy old[3:57] new[1:41]
+2022-05-28 21:12:32 DEBUG parse_part from 42 to 43 (to 43 in part parser)
+2022-05-28 21:12:32 DEBUG parse_part from 44 to 58 (to 57 in part parser)
+2022-05-28 21:12:32 DEBUG -> code[replace] old[58:58] new[58:58]
+2022-05-28 21:12:32 DEBUG diff parser end
+2022-05-28 21:14:48 DEBUG diff parser start
+2022-05-28 21:14:48 DEBUG line_lengths old: 58; new: 66
+2022-05-28 21:14:48 DEBUG -> code[equal] old[1:42] new[1:42]
+2022-05-28 21:14:48 DEBUG copy old[3:57] new[1:28]
+2022-05-28 21:14:48 DEBUG parse_part from 29 to 31 (to 31 in part parser)
+2022-05-28 21:14:48 DEBUG parse_part from 32 to 41 (to 44 in part parser)
+2022-05-28 21:14:48 DEBUG parse_part from 42 to 59 (to 62 in part parser)
+2022-05-28 21:14:48 DEBUG -> code[insert] old[43:42] new[43:43]
+2022-05-28 21:14:48 DEBUG -> code[equal] old[43:57] new[44:58]
+2022-05-28 21:14:48 DEBUG -> code[replace] old[58:58] new[59:66]
+2022-05-28 21:14:48 DEBUG parse_part from 60 to 66 (to 65 in part parser)
+2022-05-28 21:14:48 DEBUG diff parser end
+2022-05-28 21:15:11 DEBUG diff parser start
+2022-05-28 21:15:11 DEBUG line_lengths old: 66; new: 67
+2022-05-28 21:15:11 DEBUG -> code[equal] old[1:65] new[1:65]
+2022-05-28 21:15:11 DEBUG copy old[3:65] new[1:59]
+2022-05-28 21:15:11 DEBUG parse_part from 60 to 62 (to 62 in part parser)
+2022-05-28 21:15:11 DEBUG parse_part from 63 to 67 (to 66 in part parser)
+2022-05-28 21:15:11 DEBUG -> code[replace] old[66:66] new[66:67]
+2022-05-28 21:15:11 DEBUG diff parser end
+2022-05-28 21:15:29 DEBUG diff parser start
+2022-05-28 21:15:29 DEBUG line_lengths old: 67; new: 68
+2022-05-28 21:15:29 DEBUG -> code[equal] old[1:66] new[1:66]
+2022-05-28 21:15:29 DEBUG copy old[3:66] new[1:59]
+2022-05-28 21:15:29 DEBUG parse_part from 60 to 62 (to 62 in part parser)
+2022-05-28 21:15:29 DEBUG parse_part from 63 to 68 (to 67 in part parser)
+2022-05-28 21:15:29 DEBUG -> code[replace] old[67:67] new[67:68]
+2022-05-28 21:15:29 DEBUG diff parser end
+2022-05-28 21:15:49 DEBUG diff parser start
+2022-05-28 21:15:49 DEBUG line_lengths old: 68; new: 68
+2022-05-28 21:15:49 DEBUG -> code[equal] old[1:67] new[1:67]
+2022-05-28 21:15:49 DEBUG copy old[3:67] new[1:59]
+2022-05-28 21:15:49 DEBUG parse_part from 60 to 62 (to 62 in part parser)
+2022-05-28 21:15:49 DEBUG parse_part from 63 to 68 (to 67 in part parser)
+2022-05-28 21:15:49 DEBUG -> code[replace] old[68:68] new[68:68]
+2022-05-28 21:15:49 DEBUG diff parser end
+2022-05-28 21:15:53 DEBUG diff parser start
+2022-05-28 21:15:53 DEBUG line_lengths old: 68; new: 68
+2022-05-28 21:15:53 DEBUG -> code[equal] old[1:67] new[1:67]
+2022-05-28 21:15:53 DEBUG copy old[3:67] new[1:59]
+2022-05-28 21:15:53 DEBUG parse_part from 60 to 62 (to 62 in part parser)
+2022-05-28 21:15:53 DEBUG parse_part from 63 to 68 (to 67 in part parser)
+2022-05-28 21:15:53 DEBUG -> code[replace] old[68:68] new[68:68]
+2022-05-28 21:15:53 DEBUG diff parser end
+2022-05-28 21:16:41 DEBUG diff parser start
+2022-05-28 21:16:41 DEBUG line_lengths old: 68; new: 71
+2022-05-28 21:16:41 DEBUG -> code[equal] old[1:67] new[1:67]
+2022-05-28 21:16:41 DEBUG copy old[3:67] new[1:59]
+2022-05-28 21:16:41 DEBUG parse_part from 60 to 62 (to 62 in part parser)
+2022-05-28 21:16:41 DEBUG parse_part from 63 to 71 (to 70 in part parser)
+2022-05-28 21:16:41 DEBUG -> code[replace] old[68:68] new[68:71]
+2022-05-28 21:16:41 DEBUG diff parser end
+2022-05-28 21:16:44 DEBUG diff parser start
+2022-05-28 21:16:44 DEBUG line_lengths old: 71; new: 71
+2022-05-28 21:16:44 DEBUG -> code[equal] old[1:70] new[1:70]
+2022-05-28 21:16:44 DEBUG copy old[3:70] new[1:59]
+2022-05-28 21:16:44 DEBUG parse_part from 60 to 62 (to 62 in part parser)
+2022-05-28 21:16:44 DEBUG parse_part from 63 to 71 (to 70 in part parser)
+2022-05-28 21:16:44 DEBUG -> code[replace] old[71:71] new[71:71]
+2022-05-28 21:16:44 DEBUG diff parser end
+2022-05-28 21:19:15 DEBUG diff parser start
+2022-05-28 21:19:15 DEBUG line_lengths old: 71; new: 83
+2022-05-28 21:19:15 DEBUG -> code[equal] old[1:70] new[1:70]
+2022-05-28 21:19:15 DEBUG copy old[3:70] new[1:59]
+2022-05-28 21:19:15 DEBUG parse_part from 60 to 62 (to 62 in part parser)
+2022-05-28 21:19:15 DEBUG parse_part from 63 to 76 (to 79 in part parser)
+2022-05-28 21:19:15 DEBUG -> code[replace] old[71:71] new[71:83]
+2022-05-28 21:19:15 DEBUG parse_part from 77 to 83 (to 82 in part parser)
+2022-05-28 21:19:15 DEBUG diff parser end
+2022-05-28 21:19:23 DEBUG diff parser start
+2022-05-28 21:19:23 DEBUG line_lengths old: 83; new: 84
+2022-05-28 21:19:23 DEBUG -> code[equal] old[1:82] new[1:82]
+2022-05-28 21:19:23 DEBUG copy old[3:82] new[1:76]
+2022-05-28 21:19:23 DEBUG parse_part from 77 to 79 (to 79 in part parser)
+2022-05-28 21:19:23 DEBUG parse_part from 80 to 84 (to 83 in part parser)
+2022-05-28 21:19:23 DEBUG -> code[replace] old[83:83] new[83:84]
+2022-05-28 21:19:23 DEBUG diff parser end
+2022-05-28 21:19:34 DEBUG diff parser start
+2022-05-28 21:19:34 DEBUG line_lengths old: 84; new: 84
+2022-05-28 21:19:34 DEBUG -> code[equal] old[1:83] new[1:83]
+2022-05-28 21:19:34 DEBUG copy old[3:83] new[1:76]
+2022-05-28 21:19:34 DEBUG parse_part from 77 to 79 (to 79 in part parser)
+2022-05-28 21:19:34 DEBUG parse_part from 80 to 84 (to 83 in part parser)
+2022-05-28 21:19:34 DEBUG -> code[replace] old[84:84] new[84:84]
+2022-05-28 21:19:34 DEBUG diff parser end
+2022-05-28 21:19:35 DEBUG diff parser start
+2022-05-28 21:19:35 DEBUG line_lengths old: 84; new: 84
+2022-05-28 21:19:35 DEBUG -> code[equal] old[1:83] new[1:83]
+2022-05-28 21:19:35 DEBUG copy old[3:83] new[1:76]
+2022-05-28 21:19:35 DEBUG parse_part from 77 to 79 (to 79 in part parser)
+2022-05-28 21:19:35 DEBUG parse_part from 80 to 84 (to 83 in part parser)
+2022-05-28 21:19:35 DEBUG -> code[replace] old[84:84] new[84:84]
+2022-05-28 21:19:35 DEBUG diff parser end
+2022-05-28 21:19:36 DEBUG diff parser start
+2022-05-28 21:19:36 DEBUG line_lengths old: 84; new: 84
+2022-05-28 21:19:36 DEBUG -> code[equal] old[1:83] new[1:83]
+2022-05-28 21:19:36 DEBUG copy old[3:83] new[1:76]
+2022-05-28 21:19:36 DEBUG parse_part from 77 to 79 (to 79 in part parser)
+2022-05-28 21:19:36 DEBUG parse_part from 80 to 84 (to 83 in part parser)
+2022-05-28 21:19:36 DEBUG -> code[replace] old[84:84] new[84:84]
+2022-05-28 21:19:36 DEBUG diff parser end
+2022-05-28 21:19:36 DEBUG diff parser start
+2022-05-28 21:19:36 DEBUG line_lengths old: 84; new: 84
+2022-05-28 21:19:36 DEBUG -> code[equal] old[1:83] new[1:83]
+2022-05-28 21:19:36 DEBUG copy old[3:83] new[1:76]
+2022-05-28 21:19:36 DEBUG parse_part from 77 to 79 (to 79 in part parser)
+2022-05-28 21:19:36 DEBUG parse_part from 80 to 84 (to 83 in part parser)
+2022-05-28 21:19:36 DEBUG -> code[replace] old[84:84] new[84:84]
+2022-05-28 21:19:36 DEBUG diff parser end
+2022-05-28 21:20:03 DEBUG diff parser start
+2022-05-28 21:20:03 DEBUG line_lengths old: 84; new: 87
+2022-05-28 21:20:03 DEBUG -> code[equal] old[1:83] new[1:83]
+2022-05-28 21:20:03 DEBUG copy old[3:83] new[1:76]
+2022-05-28 21:20:03 DEBUG parse_part from 77 to 79 (to 79 in part parser)
+2022-05-28 21:20:03 DEBUG parse_part from 80 to 87 (to 86 in part parser)
+2022-05-28 21:20:03 DEBUG -> code[replace] old[84:84] new[84:87]
+2022-05-28 21:20:03 DEBUG diff parser end
+2022-05-28 21:20:05 DEBUG diff parser start
+2022-05-28 21:20:05 DEBUG line_lengths old: 87; new: 87
+2022-05-28 21:20:05 DEBUG -> code[equal] old[1:86] new[1:86]
+2022-05-28 21:20:05 DEBUG copy old[3:86] new[1:76]
+2022-05-28 21:20:05 DEBUG parse_part from 77 to 79 (to 79 in part parser)
+2022-05-28 21:20:05 DEBUG parse_part from 80 to 87 (to 86 in part parser)
+2022-05-28 21:20:05 DEBUG -> code[replace] old[87:87] new[87:87]
+2022-05-28 21:20:05 DEBUG diff parser end
+2022-05-28 21:23:06 DEBUG diff parser start
+2022-05-28 21:23:06 DEBUG line_lengths old: 87; new: 99
+2022-05-28 21:23:06 DEBUG -> code[equal] old[1:86] new[1:86]
+2022-05-28 21:23:06 DEBUG copy old[3:86] new[1:76]
+2022-05-28 21:23:06 DEBUG parse_part from 77 to 79 (to 79 in part parser)
+2022-05-28 21:23:06 DEBUG parse_part from 80 to 92 (to 96 in part parser)
+2022-05-28 21:23:06 DEBUG -> code[replace] old[87:87] new[87:99]
+2022-05-28 21:23:06 DEBUG parse_part from 93 to 99 (to 98 in part parser)
+2022-05-28 21:23:06 DEBUG diff parser end
+2022-05-28 21:25:59 DEBUG diff parser start
+2022-05-28 21:25:59 DEBUG line_lengths old: 99; new: 3
+2022-05-28 21:25:59 DEBUG -> code[replace] old[1:1] new[1:1]
+2022-05-28 21:25:59 DEBUG parse_part from 1 to 3 (to 2 in part parser)
+2022-05-28 21:25:59 DEBUG -> code[equal] old[2:2] new[2:2]
+2022-05-28 21:25:59 DEBUG -> code[replace] old[3:99] new[3:3]
+2022-05-28 21:25:59 DEBUG diff parser end
+2022-05-28 21:26:03 DEBUG diff parser start
+2022-05-28 21:26:03 DEBUG line_lengths old: 3; new: 3
+2022-05-28 21:26:03 DEBUG -> code[equal] old[1:2] new[1:2]
+2022-05-28 21:26:03 DEBUG parse_part from 1 to 3 (to 2 in part parser)
+2022-05-28 21:26:03 DEBUG -> code[replace] old[3:3] new[3:3]
+2022-05-28 21:26:03 DEBUG diff parser end
+2022-05-28 21:26:12 DEBUG diff parser start
+2022-05-28 21:26:12 DEBUG line_lengths old: 3; new: 3
+2022-05-28 21:26:12 DEBUG -> code[equal] old[1:2] new[1:2]
+2022-05-28 21:26:12 DEBUG parse_part from 1 to 3 (to 2 in part parser)
+2022-05-28 21:26:12 DEBUG -> code[replace] old[3:3] new[3:3]
+2022-05-28 21:26:12 DEBUG diff parser end
+2022-05-28 21:26:54 INFO Connection Successfull:MongoClient(host=['ac-n2scpbo-shard-00-00.o6lncva.mongodb.net:27017', 'ac-n2scpbo-shard-00-02.o6lncva.mongodb.net:27017', 'ac-n2scpbo-shard-00-01.o6lncva.mongodb.net:27017'], document_class=dict, tz_aware=False, connect=True, retrywrites=True, w='majority', authsource='admin', replicaset='atlas-ru0jnl-shard-0', tls=True)
+2022-05-28 21:26:56 ERROR Database creation error name 'srt' is not defined
+2022-05-28 21:27:14 ERROR Database creation error name 'srt' is not defined
+2022-05-28 21:27:18 ERROR Database creation error name 'srt' is not defined
+2022-05-28 21:27:45 INFO Connection Successfull:MongoClient(host=['ac-n2scpbo-shard-00-00.o6lncva.mongodb.net:27017', 'ac-n2scpbo-shard-00-02.o6lncva.mongodb.net:27017', 'ac-n2scpbo-shard-00-01.o6lncva.mongodb.net:27017'], document_class=dict, tz_aware=False, connect=True, retrywrites=True, w='majority', authsource='admin', replicaset='atlas-ru0jnl-shard-0', tls=True)
+2022-05-28 21:27:47 INFO Database creation successfull:carbon_nano_dbDatabase(MongoClient(host=['ac-n2scpbo-shard-00-00.o6lncva.mongodb.net:27017', 'ac-n2scpbo-shard-00-02.o6lncva.mongodb.net:27017', 'ac-n2scpbo-shard-00-01.o6lncva.mongodb.net:27017'], document_class=dict, tz_aware=False, connect=True, retrywrites=True, w='majority', authsource='admin', replicaset='atlas-ru0jnl-shard-0', tls=True), 'carbon_nano_db')
+2022-05-28 21:28:23 DEBUG diff parser start
+2022-05-28 21:28:23 DEBUG line_lengths old: 3; new: 2
+2022-05-28 21:28:23 DEBUG -> code[replace] old[1:3] new[1:2]
+2022-05-28 21:28:23 DEBUG parse_part from 1 to 2 (to 1 in part parser)
+2022-05-28 21:28:23 DEBUG diff parser end
+2022-05-28 21:28:23 DEBUG diff parser start
+2022-05-28 21:28:23 DEBUG line_lengths old: 2; new: 2
+2022-05-28 21:28:23 DEBUG -> code[equal] old[1:1] new[1:1]
+2022-05-28 21:28:23 DEBUG parse_part from 1 to 2 (to 1 in part parser)
+2022-05-28 21:28:23 DEBUG -> code[replace] old[2:2] new[2:2]
+2022-05-28 21:28:23 DEBUG diff parser end
+2022-05-28 21:28:46 INFO Collection creation successfull:nanotube_collectionCollection(Database(MongoClient(host=['ac-n2scpbo-shard-00-00.o6lncva.mongodb.net:27017', 'ac-n2scpbo-shard-00-02.o6lncva.mongodb.net:27017', 'ac-n2scpbo-shard-00-01.o6lncva.mongodb.net:27017'], document_class=dict, tz_aware=False, connect=True, retrywrites=True, w='majority', authsource='admin', replicaset='atlas-ru0jnl-shard-0', tls=True), 'carbon_nano_db'), 'nanotube_collection')
+2022-05-28 21:31:18 DEBUG diff parser start
+2022-05-28 21:31:18 DEBUG line_lengths old: 2; new: 3
+2022-05-28 21:31:18 DEBUG -> code[replace] old[1:2] new[1:3]
+2022-05-28 21:31:18 DEBUG parse_part from 1 to 3 (to 2 in part parser)
+2022-05-28 21:31:18 DEBUG diff parser end
+2022-05-28 21:31:20 DEBUG diff parser start
+2022-05-28 21:31:20 DEBUG line_lengths old: 3; new: 3
+2022-05-28 21:31:20 DEBUG -> code[equal] old[1:2] new[1:2]
+2022-05-28 21:31:20 DEBUG copy old[1:1] new[1:1]
+2022-05-28 21:31:20 DEBUG parse_part from 2 to 3 (to 2 in part parser)
+2022-05-28 21:31:20 DEBUG -> code[replace] old[3:3] new[3:3]
+2022-05-28 21:31:20 DEBUG diff parser end
+2022-05-28 21:31:20 DEBUG pickle loaded: C:\Users\jimsh\anaconda3\lib\csv.py
+2022-05-28 21:31:20 DEBUG pickle loaded: C:\Users\jimsh\anaconda3\lib\site-packages\jedi\third_party\typeshed\stdlib\2and3\csv.pyi
+2022-05-28 21:31:20 DEBUG pickle loaded: C:\Users\jimsh\anaconda3\lib\site-packages\jedi\third_party\typeshed\stdlib\2and3\_csv.pyi
+2022-05-28 21:31:20 DEBUG pickle loaded: C:\Users\jimsh\anaconda3\lib\io.py
+2022-05-28 21:31:20 DEBUG pickle loaded: C:\Users\jimsh\anaconda3\lib\site-packages\jedi\third_party\typeshed\stdlib\3\io.pyi
+2022-05-28 21:31:21 DEBUG diff parser start
+2022-05-28 21:31:21 DEBUG line_lengths old: 3; new: 3
+2022-05-28 21:31:21 DEBUG -> code[equal] old[1:2] new[1:2]
+2022-05-28 21:31:21 DEBUG copy old[1:1] new[1:1]
+2022-05-28 21:31:21 DEBUG parse_part from 2 to 3 (to 2 in part parser)
+2022-05-28 21:31:21 DEBUG -> code[replace] old[3:3] new[3:3]
+2022-05-28 21:31:21 DEBUG diff parser end
+2022-05-28 21:31:22 DEBUG diff parser start
+2022-05-28 21:31:22 DEBUG line_lengths old: 3; new: 3
+2022-05-28 21:31:22 DEBUG -> code[equal] old[1:2] new[1:2]
+2022-05-28 21:31:22 DEBUG copy old[1:1] new[1:1]
+2022-05-28 21:31:22 DEBUG parse_part from 2 to 3 (to 2 in part parser)
+2022-05-28 21:31:22 DEBUG -> code[replace] old[3:3] new[3:3]
+2022-05-28 21:31:22 DEBUG diff parser end
+2022-05-28 21:34:21 DEBUG diff parser start
+2022-05-28 21:34:21 DEBUG line_lengths old: 3; new: 1
+2022-05-28 21:34:21 DEBUG -> code[replace] old[1:3] new[1:1]
+2022-05-28 21:34:21 DEBUG parse_part from 1 to 1 (to 0 in part parser)
+2022-05-28 21:34:21 DEBUG diff parser end
+2022-05-28 21:34:25 DEBUG diff parser start
+2022-05-28 21:34:25 DEBUG line_lengths old: 1; new: 1
+2022-05-28 21:34:25 DEBUG -> code[replace] old[1:1] new[1:1]
+2022-05-28 21:34:25 DEBUG parse_part from 1 to 1 (to 0 in part parser)
+2022-05-28 21:34:25 DEBUG diff parser end
+2022-05-28 21:34:25 DEBUG diff parser start
+2022-05-28 21:34:25 DEBUG line_lengths old: 1; new: 1
+2022-05-28 21:34:25 DEBUG -> code[replace] old[1:1] new[1:1]
+2022-05-28 21:34:25 DEBUG parse_part from 1 to 1 (to 0 in part parser)
+2022-05-28 21:34:25 DEBUG diff parser end
+2022-05-28 21:34:37 INFO Record Inersertion successfull: 10721records
+2022-05-28 21:45:51 INFO Record Inersertion successfull: 1records
+2022-05-28 21:47:08 DEBUG diff parser start
+2022-05-28 21:47:08 DEBUG line_lengths old: 1; new: 1
+2022-05-28 21:47:08 DEBUG -> code[replace] old[1:1] new[1:1]
+2022-05-28 21:47:08 DEBUG parse_part from 1 to 1 (to 0 in part parser)
+2022-05-28 21:47:08 DEBUG diff parser end
+2022-05-28 21:47:10 DEBUG diff parser start
+2022-05-28 21:47:10 DEBUG line_lengths old: 1; new: 1
+2022-05-28 21:47:10 DEBUG -> code[replace] old[1:1] new[1:1]
+2022-05-28 21:47:10 DEBUG parse_part from 1 to 1 (to 0 in part parser)
+2022-05-28 21:47:10 DEBUG diff parser end
+2022-05-28 21:47:13 DEBUG diff parser start
+2022-05-28 21:47:13 DEBUG line_lengths old: 1; new: 1
+2022-05-28 21:47:13 DEBUG -> code[replace] old[1:1] new[1:1]
+2022-05-28 21:47:13 DEBUG parse_part from 1 to 1 (to 0 in part parser)
+2022-05-28 21:47:13 DEBUG diff parser end
+2022-05-28 21:47:17 DEBUG diff parser start
+2022-05-28 21:47:17 DEBUG line_lengths old: 1; new: 1
+2022-05-28 21:47:17 DEBUG -> code[replace] old[1:1] new[1:1]
+2022-05-28 21:47:17 DEBUG parse_part from 1 to 1 (to 0 in part parser)
+2022-05-28 21:47:17 DEBUG diff parser end
+2022-05-28 21:47:19 INFO Update successfull
+2022-05-28 21:48:17 INFO Update successfull
+2022-05-28 21:49:15 INFO Delete Successfull
+2022-05-28 21:52:44 INFO Connection Successfull:MongoClient(host=['ac-n2scpbo-shard-00-00.o6lncva.mongodb.net:27017', 'ac-n2scpbo-shard-00-02.o6lncva.mongodb.net:27017', 'ac-n2scpbo-shard-00-01.o6lncva.mongodb.net:27017'], document_class=dict, tz_aware=False, connect=True, retrywrites=True, w='majority', authsource='admin', replicaset='atlas-ru0jnl-shard-0', tls=True)
+2022-05-28 21:52:47 INFO finding records: {'m': '1'}
+2022-05-28 21:53:36 INFO Connection Successfull:MongoClient(host=['ac-n2scpbo-shard-00-00.o6lncva.mongodb.net:27017', 'ac-n2scpbo-shard-00-02.o6lncva.mongodb.net:27017', 'ac-n2scpbo-shard-00-01.o6lncva.mongodb.net:27017'], document_class=dict, tz_aware=False, connect=True, retrywrites=True, w='majority', authsource='admin', replicaset='atlas-ru0jnl-shard-0', tls=True)
+2022-05-28 21:53:39 INFO finding records: {'m': '1'}
+2022-05-28 21:54:07 INFO Database creation successfull:carbon_nano_dbDatabase(MongoClient(host=['ac-n2scpbo-shard-00-00.o6lncva.mongodb.net:27017', 'ac-n2scpbo-shard-00-02.o6lncva.mongodb.net:27017', 'ac-n2scpbo-shard-00-01.o6lncva.mongodb.net:27017'], document_class=dict, tz_aware=False, connect=True, retrywrites=True, w='majority', authsource='admin', replicaset='atlas-ru0jnl-shard-0', tls=True), 'carbon_nano_db')
+2022-05-28 21:54:08 INFO Collection creation successfull:nanotube_collectionCollection(Database(MongoClient(host=['ac-n2scpbo-shard-00-00.o6lncva.mongodb.net:27017', 'ac-n2scpbo-shard-00-02.o6lncva.mongodb.net:27017', 'ac-n2scpbo-shard-00-01.o6lncva.mongodb.net:27017'], document_class=dict, tz_aware=False, connect=True, retrywrites=True, w='majority', authsource='admin', replicaset='atlas-ru0jnl-shard-0', tls=True), 'carbon_nano_db'), 'nanotube_collection')
+2022-05-28 21:54:12 INFO finding records: {'m': '1'}
+2022-05-28 21:54:31 INFO finding records: {'m': {'$lte': 2}}
+2022-05-28 21:55:16 INFO Displaying the top 10records
